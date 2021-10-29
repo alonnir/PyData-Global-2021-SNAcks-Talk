@@ -8,7 +8,6 @@ Please also check out my other talks:
 
 [Getting an Edge with Network Analysis](https://github.com/alonnir/PyCon-US-2021-Talk)
 
-And
 
 [Sliding into Causal Inference, with Python!](https://github.com/alonnir/EuroPython-2021-Talk)
 
