@@ -13,4 +13,4 @@ Please also check out my other talks:
 
 
 <br>
-And if you like meta things, but not concerned about FOAWESOME, check out [the awesome list of awesome lists](https://github.com/sindresorhus/awesome).
+And if you like meta things, but not concerned about FOAWESOME, check out [this](https://github.com/sindresorhus/awesome) [the awesome list of awesome lists](https://github.com/sindresorhus/awesome).
